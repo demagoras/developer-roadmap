@@ -5,4 +5,4 @@ Salting is a crucial concept within the realm of cryptography. It is a technique
 Learn more from the following resources:
 
 - [@article@What is salting?](https://www.techtarget.com/searchsecurity/definition/salt)
-- [@video@](https://www.youtube.com/watch?v=PsIO0gxJF3g)
+- [@video@Salting Explained](https://www.youtube.com/watch?v=PsIO0gxJF3g)
